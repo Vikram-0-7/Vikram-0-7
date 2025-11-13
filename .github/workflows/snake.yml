@@ -5,33 +5,11 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Generate black grid snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: vikram-0-7
-          outputs: dist/snake.svg
-          svg_configs: |
-            theme=dark
-            background=#000000
-            grid=true
-            grid_color=#000000
-            snake_color=#00d2ff
-            animation_duration=8000
-            transparent=true
-
-      - name: Deploy to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: dist
-          branch: output
