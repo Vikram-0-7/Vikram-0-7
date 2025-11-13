@@ -68,6 +68,6 @@
 
 
 <!-- <img src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/output/snake.svg" alt="Snake animation" /> -->
-<img src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/output/snake-black.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/output/snake.svg" alt="Snake animation"/>
 
 
