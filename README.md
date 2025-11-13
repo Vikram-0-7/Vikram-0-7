@@ -2,12 +2,12 @@
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />-->
 <img align="right" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif.gif" width="250" />
-<img align="left" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif2.gif" width="250" />
+<!-- <img align="left"  height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif2.gif " width="250"/> -->
 
 
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=vikram-0-7&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-0-7" />
+ <img align ="left" src="https://komarev.com/ghpvc/?username=vikram-0-7&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-0-7" />
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
 ---
 
 ### About Me  
+<img align="right" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif2.gif" width="250"/>
 - I’m currently working on **AI & Web Projects**  
 - I’m currently learning **Cloud, ML, and Advanced Python**  
 - I’m looking to collaborate on **Open Source Projects**  
