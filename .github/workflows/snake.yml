@@ -20,7 +20,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: vikram-0-7
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          svg_configs: |
+            theme=dark
 
       - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
