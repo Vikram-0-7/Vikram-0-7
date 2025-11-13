@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vikram and I'm a CSE Student & Developer</h2>
+<h2 align="left">Hi 👋! My name is Vikram and I'm a IT Student & Developer</h2>
 
 ###
 
