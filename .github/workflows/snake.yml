@@ -13,16 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate the snake
+      - name: Generate black grid snake
         uses: Platane/snk@v3
         with:
           github_user_name: vikram-0-7
-          outputs: dist/snake-dark.svg
-          # svg_configs: |
-          #   theme=dark
+          outputs: dist/snake-black.svg
+          svg_configs: |
+            theme=dark
+            snake_color=#00d2ff
+            animation_duration=8000
+            transparent=true
+            background=#000000
+            grid=true
+            grid_color=#000000
 
       - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
