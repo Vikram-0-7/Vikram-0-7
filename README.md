@@ -26,7 +26,7 @@
 - I’m looking to collaborate on **Open Source Projects**  
 - Ask me about **Python, AI, Android, and Web Dev**  
 - **I love solving real-life problems with tech**  
-- <!-- Know more about me → (add resume link)  -->
+<!-- - Know more about me → (add resume link)  -->
 ---
 
 <!--## 🌐 Connect with me:-->
