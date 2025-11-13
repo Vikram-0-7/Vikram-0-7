@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo" />
+  
 </div>
 
 ###
@@ -39,4 +40,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vikram-0-7/Vikram-0-7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vikram200577/vikram200577/output/snake.svg" alt="Snake animation" />
