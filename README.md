@@ -25,9 +25,8 @@
 - I’m currently learning **Cloud, ML, and Advanced Python**  
 - I’m looking to collaborate on **Open Source Projects**  
 - Ask me about **Python, AI, Android, and Web Dev**  
-- <!-- Know more about me → (add resume link)  -->
 - **I love solving real-life problems with tech**  
-
+- <!-- Know more about me → (add resume link)  -->
 ---
 
 <!--## 🌐 Connect with me:-->
