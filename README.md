@@ -20,6 +20,7 @@
 
 ### About Me  
 <img align="right" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif2.gif" width="250"/>
+
 - I’m currently working on **AI & Web Projects**  
 - I’m currently learning **Cloud, ML, and Advanced Python**  
 - I’m looking to collaborate on **Open Source Projects**  
