@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram-0-7&show_icons=true&layout=compact" /></p>
 
