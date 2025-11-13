@@ -1,43 +1,66 @@
-<h2 align="left">Hi 👋! My name is Vikram and I'm a IT Student & Developer</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikram200577&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram200577&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
+<h1 align="center">Hi 👋! My name is Vikram and I'm an IT Student & Developer</h1>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif.gif" width="250" />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo" />
-  
-</div>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=vikram-0-7&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-0-7" />
+</p>
 
-###
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=vikram-0-7" alt="trophy" />
+ </a>
+</p>
 
-<div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
-</div>
+---
 
-###
+### About Me  
+- I’m currently working on **AI & Web Projects**  
+- I’m currently learning **Cloud, ML, and Advanced Python**  
+- I’m looking to collaborate on **Open Source Projects**  
+- Ask me about **Python, AI, Android, and Web Dev**  
+- <!-- Know more about me → (add resume link)  -->
+- **I love solving real-life problems with tech**  
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/vikram200577/vikram200577/output/snake.svg" alt="Snake animation" />
+<!--## 🌐 Connect with me:-->
+<!--<p align="left">-->
+<!-- Add your social links here -->
+<!--</p>-->
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">  
+<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+<a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
+<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+<!-- (You can keep/remove any icons from your list) -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram-0-7&show_icons=true&layout=compact" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram-0-7&show_icons=true" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-0-7" /></p>
+
+---
+
+<img src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/output/snake.svg" alt="Snake animation" />
