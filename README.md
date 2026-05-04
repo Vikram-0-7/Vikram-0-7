@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Vikram and I'm an IT Student & Developer</h1>
+<h1 align="center">Hi 👋! My name is Vikram and I'm an Engineer </h1>
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />-->
 <!-- <img align="right" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif.gif" width="250" /> -->
