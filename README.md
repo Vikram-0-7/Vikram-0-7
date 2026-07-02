@@ -36,7 +36,7 @@
 
 ## 🚀 About Me
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif2.gif" width="250"/>
+<img align="right" height="130" src="https://raw.githubusercontent.com/vikram-0-7/vikram-0-7/main/mygif2.gif" width="250"/>
 
 <!--
 - 🎓 B.E. Information Technology @ **CBIT Hyderabad** -->
