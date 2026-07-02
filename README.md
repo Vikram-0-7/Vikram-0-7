@@ -109,14 +109,14 @@ Full-stack MERN application with authentication, credits and AI image generation
 --- -->
 
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikram-0-7&show_icons=true&theme=github_dark&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-0-7&layout=compact&theme=github_dark"/>
 
-</p>
+</p>-->
 
 <p align="center">
 
