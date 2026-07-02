@@ -144,13 +144,9 @@ Full-stack MERN application with authentication, credits and AI image generation
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
----
 
-<p align="center">
 
-⭐️ From <b>Vikram Thatikonda</b>
 
-</p>
 ---
 
 
