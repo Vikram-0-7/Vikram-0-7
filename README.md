@@ -48,6 +48,25 @@
 <!-- -  Reach me at **vikram200577@gmail.com** -->
 
 ---
+## 📊 GitHub Stats
+<!--
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikram-0-7&show_icons=true&theme=github_dark&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-0-7&layout=compact&theme=github_dark"/>
+
+</p>-->
+
+<p align="center">
+
+<!--<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark"/>-->
+<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark&cache_seconds=1" />
+
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -108,22 +127,6 @@ Full-stack MERN application with authentication, credits and AI image generation
 
 --- -->
 
-## 📊 GitHub Stats
-<!--
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikram-0-7&show_icons=true&theme=github_dark&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-0-7&layout=compact&theme=github_dark"/>
-
-</p>-->
-
-<p align="center">
-
-<!--<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark"/>-->
-<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark&cache_seconds=1" />
-
-</p>
 
 ---
 
