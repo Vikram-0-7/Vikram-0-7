@@ -48,38 +48,37 @@
 <!-- -  Reach me at **vikram200577@gmail.com** -->
 
 ---
-
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
-</p>
+| Python | C++ | C | JavaScript |
+|:------:|:---:|:--:|:----------:|
+| <img src="https://skillicons.dev/icons?i=python" width="50"/> | <img src="https://skillicons.dev/icons?i=cpp" width="50"/> | <img src="https://skillicons.dev/icons?i=c" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> |
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
+| React | HTML5 | CSS3 | Tailwind CSS | Bootstrap |
+|:-----:|:-----:|:----:|:------------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/> |
 
-### Backend
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+| Node.js | Express.js | FastAPI |
+|:-------:|:----------:|:-------:|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> | <img src="https://skillicons.dev/icons?i=fastapi" width="50"/> |
 
-### Databases
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+| MongoDB | MySQL | PostgreSQL |
+|:-------:|:-----:|:----------:|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=postgres" width="50"/> |
 
-### Tools
+### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+| Git | GitHub | VS Code | Postman |
+|:---:|:------:|:-------:|:--------:|
+| <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://skillicons.dev/icons?i=vscode" width="50"/> | <img src="https://skillicons.dev/icons?i=postman" width="50"/> |
 
 ---
 <!--
@@ -121,7 +120,8 @@ Full-stack MERN application with authentication, credits and AI image generation
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark"/>
+<!--<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark"/>-->
+<img src="https://streak-stats.demolab.com?user=vikram-0-7&theme=github-dark&cache_seconds=1" />
 
 </p>
 
