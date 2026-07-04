@@ -34,7 +34,7 @@
       <img src="https://komarev.com/ghpvc/?username=vikram-0-7&label=Profile%20Views&color=0e75b6&style=flat"/>
     </td>
     <td align="right">
-      <a href="https://your-portfolio.vercel.app">
+      <a href="https://vikram-0-7.github.io/Vikram_Portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -155,7 +155,7 @@ Full-stack MERN application with authentication, credits and AI image generation
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://your-portfolio.vercel.app" target="_blank">
+<a href="https://vikram-0-7.github.io/Vikram_Portfolio/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/domain.png" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
