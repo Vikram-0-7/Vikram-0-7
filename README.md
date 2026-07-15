@@ -53,7 +53,7 @@
 -  Building intelligent software using **React, FastAPI, MERN Stack & Python**
 - Currently learning **Cloud, DevOps, AI Agents & System Design**
 -  Ask me about **Python, React, MERN, FastAPI, REST APIs, AI & LLMs**
-- I love solving real-life problems with Tech
+- I love solving real-world and industry challenges with technology.
 <!-- -  Reach me at **vikram200577@gmail.com** -->
 
 ---
